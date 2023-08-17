@@ -1,3 +1,12 @@
 [submodule "react-and-js-projects/openAI-APP"]
 	path = react-and-js-projects/openAI-APP
 	url = https://github.com/georginskaya/react-and-js-projects.git
+[submodule "openAI-APP"]
+	path = openAI-APP
+	url = https://github.com/georginskaya/openAI-APP
+[submodule "RoboHash"]
+	path = RoboHash
+	url = https://github.com/georginskaya/openAI-APP
+[submodule "fowlist"]
+	path = fowlist
+	url = https://github.com/georginskaya/openAI-APP
