@@ -10,3 +10,6 @@
 [submodule "fowlist"]
 	path = fowlist
 	url = https://github.com/georginskaya/openAI-APP
+[submodule "flowlist"]
+	path = flowlist
+	url = https://github.com/georginskaya/flowlist
